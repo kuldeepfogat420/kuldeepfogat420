@@ -1,6 +1,5 @@
 ![github-header-image (4)](https://github.com/user-attachments/assets/bca08e71-8509-425d-9296-674f85d2a3cf)
 
-
 <h1 align="center">Hi 👋, I'm REENA FOGAT</h1>
 
 <h3 align="center">i am first year developer about coding, data-analysis and visualization(matpliotlib, pandas and numpy) from India</h3>
@@ -12,7 +11,9 @@
 <a href="https://linkedin.com/in/reena-fogat-17701a335" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reena-fogat-17701a335" height="30" width="40" /></a>
 <a href="https://kaggle.com/kuldeepfogat420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kuldeepfogat420" height="30" width="40" /></a>
 </p>
-
+<p>
+  <img scr="![image](https://github.com/user-attachments/assets/00af0687-ee37-4a85-88c3-a03297d793b7)" width="200" />
+</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
