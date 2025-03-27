@@ -1,4 +1,4 @@
-![github-header-image (1)](https://github.com/user-attachments/assets/b15e9b86-98bb-4549-9df7-846a06fccc05)
+![github-header-image (19)](https://github.com/user-attachments/assets/1135627a-df5e-4e98-adfe-d84ebc6fad1c)
 
 <h1 align="center">Hi 👋, I'm REENA FOGAT</h1>
 
