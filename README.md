@@ -12,7 +12,8 @@
 <a href="https://kaggle.com/kuldeepfogat420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kuldeepfogat420" height="30" width="40" /></a>
 </p>
 <p>
-  <img scr="![image](https://github.com/user-attachments/assets/00af0687-ee37-4a85-88c3-a03297d793b7)" width="200" />
+  <img scr="![image](https://github.com/user-attachments/assets/2d2ba114-fc30-4ec6-a6d9-6cb68d0cf41a)
+" width="200" />
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
