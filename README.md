@@ -11,7 +11,7 @@
 <a href="https://linkedin.com/in/reena-fogat-17701a335" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reena-fogat-17701a335" height="30" width="40" /></a>
 <a href="https://kaggle.com/kuldeepfogat420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kuldeepfogat420" height="30" width="40" /></a>
 </p>
-<p>
+<p align="right">
   <img scr="https://media.tenor.com/5mSMAfK0ZiAAAAAM/scaler-create-impact.gif" width="200" />
 </p>
 <h3 align="left">Languages and Tools:</h3>
